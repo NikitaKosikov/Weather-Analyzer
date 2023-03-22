@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.senla.weather.domain.WeatherTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-03-22T13:05:24" hostname="DESKTOP-3ED3TIO" time="0.353">
+  <properties/>
+  <testcase name="weatherIsInitialized()" classname="com.senla.weather.domain.WeatherTest" time="0.037"/>
+  <testcase name="accumulateNumericWeatherDataTheInitialWeatherIsUninitialized()" classname="com.senla.weather.domain.WeatherTest" time="0.079"/>
+  <testcase name="accumulateNumericWeatherData()" classname="com.senla.weather.domain.WeatherTest" time="0.021"/>
+  <testcase name="weatherIsUninitialized()" classname="com.senla.weather.domain.WeatherTest" time="0.063"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
